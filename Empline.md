@@ -1,4 +1,4 @@
-<img width="481" height="136" alt="Screenshot 2026-01-28 alle 13 25 27" src="https://github.com/user-attachments/assets/49f29214-d446-42a3-9137-a82a5b0de379" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2a06df12-2c3c-46f1-b9b0-e9b77ac9d599" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2a06df12-2c3c-46f1-b9b0-e9b77ac9d599" />
 
 # EMPLINE 
 Are you good enough to apply for this job? 
