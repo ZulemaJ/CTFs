@@ -115,7 +115,9 @@ Using Telnet, we connect to it and proceed to dump cached data:
 
 <img width="729" height="137" alt="Screenshot 2026-01-29 alle 09 16 09" src="https://github.com/user-attachments/assets/8f211e75-40fc-42f2-a70e-1d781b0534e1" />
 
-We can find an interesting article on it with a cheatsheet here : https://www.hackingarticles.in/penetration-testing-on-memcached-server/
+
+An interesting article about Memcached can be found [here](https://www.hackingarticles.in/penetration-testing-on-memcached-server/)
+
 
 <img width="341" height="275" alt="Screenshot 2026-01-29 alle 09 17 11" src="https://github.com/user-attachments/assets/8378b384-38b7-47b0-a96b-1f3dba2259b7" />
 
