@@ -23,7 +23,7 @@ The scan output reveals 2 open ports:
 - 22 SSH
 - 80 HTTP
 
-Visiting port 80 is enoughvto answer the first question: 
+Visiting port 80 is enough to answer the first question: 
 
 <img width="652" height="619" alt="Screenshot 2026-01-30 alle 10 44 30" src="https://github.com/user-attachments/assets/02d63004-7ca5-4d59-8630-64bbe2287109" />
 
