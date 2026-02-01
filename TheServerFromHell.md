@@ -145,7 +145,7 @@ seq 2500 4500 | xargs -P 20 -I {} bash -c "ssh -o ConnectTimeout=2 -o BatchMode=
 
 Eventually, we get a hit:
 
-> `[+] PORTA FOUND: 3333`
+> `[+] PORT FOUND: 3333`
 
 
 
@@ -155,6 +155,7 @@ We connect to SSH on port 3333:
 
 <img width="977" height="854" alt="Screenshot 2026-02-01 alle 16 40 45" src="https://github.com/user-attachments/assets/282fe28d-2800-4a5c-a2b8-29b082581656" />
 > (Note: I had to clean the id_rsa file because some spaces were added while pasting it.)
+
 
 We’re in — but instead of a Bash shell, we land inside a **Ruby jail**.
 
